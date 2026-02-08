@@ -41,7 +41,7 @@
   - JPA 이해
   - 도커를 이용한 MySQL
   - DTO 패턴 이애하기
-- **Repository:** (예정)
+- **Repository**: https://github.com/y-jh107/todo-mysql
 
 ---
 
