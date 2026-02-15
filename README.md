@@ -53,7 +53,7 @@
   - 스프링 전역 에러 처리기
   - 성능을 고려한 JPA 설계
   - 복잡한 도메인 모델링
-- **Repository:** (예정)
+- **Repository**: https://github.com/y-jh107/minilog-jpa
 
 ---
 
