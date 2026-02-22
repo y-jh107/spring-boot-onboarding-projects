@@ -46,7 +46,7 @@
 ---
 
 ### 3. 고급 JPA 기반의 마이크로블로그 REST API 서버
-- **Status:** 📝 Planned
+- **Status:** ✅ Completed
 - **설명:**  
   고급 JPA 기능을 활용해 마이크로블로그 REST API 서버를 개발
 - **주요 학습 포인트:**
