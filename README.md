@@ -58,7 +58,7 @@
 ---
 
 ### 4. Minilog 인증 기능 추가 (JWT)
-- **Status:** 📝 Planned
+- **Status:** 🚧 In Progress
 - **설명:**  
   기존 Minilog API에 JWT 기반 인증 기능을 추가
 - **주요 학습 포인트:**
