@@ -58,14 +58,14 @@
 ---
 
 ### 4. Minilog 인증 기능 추가 (JWT)
-- **Status:** 🚧 In Progress
+- **Status:** ✅ Completed
 - **설명:**  
   기존 Minilog API에 JWT 기반 인증 기능을 추가
 - **주요 학습 포인트:**
   - JWT 인증 이해
   - 인증/인가 처리 구조
   - 보안 설정
-- **Repository:** (예정)
+- **Repository:** https://github.com/y-jh107/minilog-with-auth
 
 ---
 
